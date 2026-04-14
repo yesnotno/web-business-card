@@ -24,17 +24,17 @@ time, mark, audio, video {
 
 @font-face {
     font-family: "Musk Regular";
-    src: url("./fonts/Musk\ Regular.otf");
+    src: url("./fonts/Musk-Regular.otf");
 }
 
-/* @font-face {
+@font-face {
     font-family: "Urbanist Black";
-    src: url("./fonts/Urbanist\ Black.otf");
-} */
+    src: url("./fonts/Urbanist-Black.otf");
+}
 
 @font-face {
     font-family: "Urbanist Thin";
-    src: url("./fonts/Urbanist\ Thin.otf");
+    src: url("./fonts/Urbanist-Thin.otf");
 }
 
 h1 { 
